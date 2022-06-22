@@ -13,5 +13,7 @@
 </div>
 <div> <h1> Contact </h1></div>
 <div>
-   <a href="mailto:paulo.henriqq8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""> </a>
+   <a href="mailto:paulo.henriqq8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" </a>
+    <a href="www.linkedin.com/in/paulo-henrique-769089202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" </a>   
+     
 </div>
