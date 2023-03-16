@@ -5,7 +5,7 @@
 
 ![PauloHenrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloHenrique-Hope&show_icons=true&theme=rose_pine)
 <div>
-  <H1>Most Used Languages </H1>
+  <H1>Most Used </H1>
   <img align="center" alt="Paulo-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="30" />
   <img align="center" alt="Paulo-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="30" />
   <img align="center" alt="Paulo-CSharp"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="30" />
