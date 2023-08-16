@@ -12,6 +12,7 @@
   <img align="center" alt="Paulo-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="30" />
   <img align="center" alt="Paulo-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="30" />
   <img align="center" lat="Paulo-Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="30"/>
+  <img align="center" lat="Paulo-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" height="40" width="30"/>
   
           
           
