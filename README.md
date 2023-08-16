@@ -1,6 +1,6 @@
 ### Hi I'm Paulo Henrique
 
-- 🔭 I’m currently working on in Front-End projects With React Js
+- 🔭 I’m currently Building Front-End projects With React Js
 - 🌱 I’m currently learning web and game development
 
 ![PauloHenrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloHenrique-Hope&show_icons=true&theme=rose_pine)
