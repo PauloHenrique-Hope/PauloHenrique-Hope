@@ -1,6 +1,6 @@
 ### Hi I'm Paulo Henrique
 
-- 🔭 I’m currently Building Front-End projects With React Js
+- 🔭 I’m currently Building FullStack projects with React js and Node js
 - 🌱 I’m currently learning web and game development
 
 
